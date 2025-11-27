@@ -1,4 +1,4 @@
-import { useState } from 'react';
+kimport { useState } from 'react';
 
 const CounterApp: React.FC = () => {
   const [count, setCount] = useState(0);
