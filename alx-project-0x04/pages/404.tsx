@@ -1,4 +1,4 @@
-kimport Link from 'next/link';
+import Link from 'next/link';
 import { FaHome } from 'react-icons/fa'; 
 
 const Custom404 = () => {
