@@ -1,4 +1,4 @@
-j["increment: () => void;", "decrement: () => void;"]
+["increment: () => void;", "decrement: () => void;"]
 import { createContext, useContext,  useState, ReactNode } from "react"
 
 interface CountContextProps {
