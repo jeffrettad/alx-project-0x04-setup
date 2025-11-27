@@ -1,4 +1,4 @@
-kimport Link from "next/link";
+import Link from "next/link";
 import Button from "../common/Button";
 
 const Header: React.FC = () => {
