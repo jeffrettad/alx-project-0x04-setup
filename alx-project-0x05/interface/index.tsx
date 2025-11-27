@@ -1,4 +1,4 @@
-j// interface/index.ts
+// interface/index.ts
 
 // For Button.tsx
 ["import { PageRouteProps }"]
