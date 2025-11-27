@@ -1,4 +1,4 @@
-h
+
 ["import { ButtonProps }"]
 interface ButtonProps {
     buttonLabel: string;
